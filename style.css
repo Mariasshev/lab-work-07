@@ -1,0 +1,56 @@
+h1{
+    text-align: start;
+}
+.main{
+    margin-top: 5%;
+}
+.container{
+    font-size: 16px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+::placeholder{
+    font-size: 14px;
+}
+.option{
+    margin-bottom: 10px;
+}
+form{
+    padding: 30px;
+    padding-top: 10px;
+    border: 1px solid rgb(199, 194, 194);
+    border-radius: 5px;
+    width: 280px;
+}
+input{
+    width: 270px;
+    padding: 5px;
+    border-radius: 5px;
+    border-color: #c7c2c2;
+}
+button{
+    margin-top: 5px;
+    width: 280px;
+    border-radius: 5px;
+    background-color: #FED813;
+    border: none;
+    padding: 8px;
+    font-size: 10px;
+}
+.blue{
+    color: blue;
+}
+label{
+    font-weight: bold;
+}
+img{
+    height: 30px;
+}
+.logo{ 
+    margin-bottom: 20px;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
